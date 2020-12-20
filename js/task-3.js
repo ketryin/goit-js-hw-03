@@ -10,7 +10,7 @@ const findBestEmployee = function(employees) {
        }
     }
 
-    return `${name} : ${bestEmployeee}`;
+    return `${name} : ${bestEmployee}`;
 };
 
 /*
